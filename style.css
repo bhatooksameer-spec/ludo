@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+}
+.whole{
+    /* border: 10px groove black; */
+    width: 635px;
+    margin: auto;
+    margin-top: 6%;
+}
+.main{
+    display: flex;
+}
+.red{
+    width: 252px;
+    height: 250px;
+    background-color: red;
+    margin-left: 2px;
+}
+.blue{
+    width: 237px;
+    height: 250px;
+    background-color: blue;
+    margin-left: 0px;
+}
+.green{
+    width: 250px;
+    height: 250px;
+    background-color: green;
+    margin-left: 2px;
+}
+.yellow{
+    width: 239px;
+    height: 250px;
+    background-color: rgb(243, 243, 30);
+    margin-left: 1px;
+}
+.white{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 51px;
+    margin-top: 60px;
+    border-radius: 50%;
+}
+.wite{
+     width: 40px;
+    height: 40px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 51px;
+    margin-top: 40px;
+    border-radius: 50%;
+
+}
+.rpart{
+    width: 160px;
+    height: 250px;
+    background-color: aqua;
+    
+}
+
+.wbox{
+    width: 46px;
+    height: 46px;
+    background-color: white;
+    border: 3px solid black;
+    display: inline-block;
+    margin: 0%;
+    border-collapse: collapse;
+}
+img{
+    width: 210px;
+    height: 210px;
+    position: absolute;
+    top: 37%;
+    left: 45%;
+}
+td{
+    background-color: white;
+    border: none;
+}
