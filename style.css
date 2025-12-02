@@ -76,11 +76,12 @@ body{
 img{
     width: 210px;
     height: 210px;
-    position: absolute;
-    top: 37%;
-    left: 45%;
+    position: relative;
+    bottom: 435px;
+    left: 220px;
 }
 td{
     background-color: white;
     border: none;
+
 }
